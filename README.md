@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Celian4862
 - 👀 I’m interested in languages, human or programming.
-- 🌱 I’m currently learning C and Spanish.
-- 💞️ I’m looking to collaborate on nothing so far.
+- 🌱 I’m currently learning C and Chinese.
+- 💞️ I’m not looking to collaborate, so far.
 - 📫 How to reach me: you can use Session to contact me. My name is LanguageSimpSimp.
 
 <!---
